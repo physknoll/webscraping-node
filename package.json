@@ -55,23 +55,6 @@
     "winston": "^3.17.0",
     "zod": "^3.23.8"
   },
-  "jest": {
-    "preset": "ts-jest",
-    "testEnvironment": "node",
-    "roots": [
-      "<rootDir>/src"
-    ],
-    "testMatch": [
-      "**/__tests__/**/*.ts",
-      "**/?(*.)+(spec|test).ts"
-    ],
-    "transform": {
-      "^.+\\.ts$": "ts-jest"
-    },
-    "setupFiles": [
-      "dotenv/config"
-    ]
-  },
   "lint-staged": {
     "*.ts": [
       "eslint --fix",

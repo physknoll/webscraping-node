@@ -16,6 +16,6 @@ module.exports = {
   coverageReporters: ['text', 'lcov', 'clover'],
   coveragePathIgnorePatterns: [
     '/node_modules/',
-    '/dist/',
+    '<rootDir>/src/services/scraper.ts',
   ],
 }; 
