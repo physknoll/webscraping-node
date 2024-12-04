@@ -28,3 +28,28 @@ git clone https://github.com/physknoll/webscraping-node.git
 cd webscraping-node
 npm install
 ```
+
+## ⚙️ **Configuration**
+
+Create a `.env` file:
+```env
+MONGO_URI=your_mongodb_uri
+OPENAI_API_KEY=your_openai_key
+OPENAI_ORGANIZATION_ID=your_org_id
+PORT=3000
+```
+
+## 📱 **Usage**
+
+```bash
+# Development
+npm run dev
+
+# Production
+npm start
+```
+
+## 🤝 **Contributing**
+1. 🍴 Fork
+2. 🌿 Branch
+3. 🎯 Pull Request
