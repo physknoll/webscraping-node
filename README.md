@@ -2,3 +2,8 @@
 
 ## 📋 **Overview**
 This Node.js framework leverages the **LLM Scraper** for extracting structured data from websites.
+
+## ✨ **Features**
+1. 🕷️ **LLM Scraper Integration**: Extract structured data using schemas
+2. 🤖 **Bee Agent Framework**: Automate complex workflows
+3. 🌐 **Dynamic Web Crawling**: Handle dynamic websites
