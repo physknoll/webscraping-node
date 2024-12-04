@@ -14,3 +14,17 @@ This Node.js framework leverages the **LLM Scraper** for extracting structured d
 - 🚀 **Express.js**: API framework
 - 🗄️ **MongoDB**: Database
 - 🤖 **OpenAI**: LLM integration
+
+## 🚀 **Installation**
+
+### Prerequisites
+- 📦 Node.js >= 16
+- 🗄️ MongoDB Atlas account
+- 🔑 OpenAI API key
+
+### Quick Start
+```bash
+git clone https://github.com/physknoll/webscraping-node.git
+cd webscraping-node
+npm install
+```
